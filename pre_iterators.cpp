@@ -17,9 +17,7 @@ int main( const int argc, const char *argv[] )
 
         E.g. if items contains the value 1, 2 and 3 then code should 
         output:
-            1, 2, 3
-        and 
-            3, 2, 1
+            1, 2, 3, 3, 2, 1
     */
 
     return 0;

@@ -9,10 +9,7 @@ using namespace std;
     function.
     
     times() should take two parameters (a and b) of the same type and then 
-    return a value of the same type that is equal a and b multiplied together.
-
-    There is one special case, if a is a string and b is an int.
-    In this case times() should return a value of a concatenated together b times. */
+    return a value of the same type that is equal a and b multiplied together. */
 
 int times( int a, int b )
 {
